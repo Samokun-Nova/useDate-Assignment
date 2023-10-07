@@ -1,0 +1,25 @@
+button {
+  width: 100px;
+  height: 30px;
+  border-radius: 20px;
+  border: none;
+  color: blue;
+  background-color: rgb(124, 185, 238);
+  margin-inline-start: 30px;
+}
+
+p {
+  color: rgb(12, 250, 64);
+  font-size: 30px;
+  padding-top: 20px;
+  padding-left: 13px;
+
+}
+div {
+  background-color: grey;
+  margin: auto;
+  width: 340px;
+  height: 190px;
+  border-radius: 10px;
+
+}
